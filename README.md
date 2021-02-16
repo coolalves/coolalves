@@ -1,5 +1,5 @@
  ## <p style='text-align: center;'> Daniel Alves </p>
-He/Him |🏳️‍🌈| Vegetarian | PT EN ES 
+He/Him |🏳️‍🌈| Vegetarian | ☭ | PT EN ES 
 
 
 ### Social Media
