@@ -1,4 +1,4 @@
-<center> ### Daniel Alves </center>
+ ### <center> Daniel Alves </center>
 He/Him |🏳️‍🌈| Vegetarian | PT EN ES 
 
 <!--
