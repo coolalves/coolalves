@@ -9,7 +9,8 @@ He/Him | 🏳️‍🌈 | Vegetarian | ☭ | PT EN ES
 * ####  Code + Web:
 <img src="cs.png" alt="csharp" width="32" height="32"> <img src="c.png" alt="c" width="32" height="32">  <img src="haskell.png" alt="haskell" width="32" height="32"> <img src="js.png" alt="js" width="32" height="32"> <img src="php.png" alt="php" width="32" height="32"> <img src="sql.png" alt="sql" width="32" height="32"> <img src="react.png" alt="react" width="32" height="32"> <img src="bs.png" alt="bootstrap" width="32" height="32"> <img src="html.png" alt="html" width="32" height="32"> <img src="css.png" alt="css" width="32" height="32"> 
  
-* ### Multimedia
+* #### Multimedia:
+<img src="ps.png" alt="ps" width="32" height="32"> <img src="lightroom.png" alt="lightroom" width="32" height="32"> <img src="premiere.png" alt="premiere" width="32" height="32"> <img src="ae.png" alt="ae" width="32" height="32"> <img src="audition.png" alt="audition" width="32" height="32"> <img src="indesign.png" alt="indesign" width="32" height="32"> <img src="ai.png" alt="ai" width="32" height="32"> <img src="figma.png" alt="figma" width="32" height="32">
 
 
 <!--
