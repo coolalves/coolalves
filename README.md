@@ -1,8 +1,8 @@
- ### <p style='text-align: center;'> Daniel Alves </p>
+ ## <p style='text-align: center;'> Daniel Alves </p>
 He/Him |🏳️‍🌈| Vegetarian | PT EN ES 
 
 
-# Social Media
+### Social Media
 ![alt text](https://freeicons.io/popular-social-media-icons/behance-icon-30596)
 
 <!--
