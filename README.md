@@ -1,5 +1,4 @@
  ## <p style='text-align: center;'> Daniel Alves </p>
-He/Him | 🏳️‍🌈 | ☭ | PT EN ES 
 
 
 <a href="https://www.linkedin.com/in/daniel-alves-833227199/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
