@@ -1,17 +1,14 @@
- ## <p style='text-align: center;'> Daniel Alves </p>
+# Welcome to my GitHub profile!
 
+I am a Master's student in Communication and Web Technologies with a passion for technological innovation, sustainability, and human-computer interaction.
 
-<a href="https://www.linkedin.com/in/daniel-alves-833227199/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
-<a href="https://gitlab.com/alvesdaniel"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" /></a>
-<a href="https://open.spotify.com/user/fuckoffdaniel"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" /></a>
+My skills include web development, UI/UX design, and multimedia, with proficiency in languages such as JavaScript, React, React Native, and SQL. I have experience working with CI/CD pipelines and am always eager to learn and expand my knowledge in this rapidly-evolving field.
 
+I am dedicated to creating meaningful and impactful work that pushes the boundaries of what is possible with technology.
 
+You can also find me on:
+- ![LinkedIn](https://icon.now.sh/linkedin/24/0077B5) [LinkedIn](https://www.linkedin.com/in/daniel-alves-833227199/)
+- ![GitLab](https://icon.now.sh/gitlab/24/FB5F5F) [GitLab](https://gitlab.com/alvesdaniel)
+- ![Instagram](https://icon.now.sh/instagram/24/E1306C) [Instagram](https://www.instagram.com/coolalves/)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolalves&theme=dark&layout=compact)    
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolalves&theme=dark&show_icons=true)
-
-<!--
-**coolalves/coolalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- 
+Feel free to reach out to me and check out my projects!
