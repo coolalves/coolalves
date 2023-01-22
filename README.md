@@ -7,8 +7,8 @@ My skills include web development, UI/UX design, and multimedia, with proficienc
 I am dedicated to creating meaningful and impactful work that pushes the boundaries of what is possible with technology.
 
 You can also find me on:
-- ![LinkedIn](https://icon.now.sh/linkedin/24/0077B5) [LinkedIn](https://www.linkedin.com/in/daniel-alves-833227199/)
-- ![GitLab](https://icon.now.sh/gitlab/24/FB5F5F) [GitLab](https://gitlab.com/alvesdaniel)
-- ![Instagram](https://icon.now.sh/instagram/24/E1306C) [Instagram](https://www.instagram.com/coolalves/)
+- [LinkedIn](https://www.linkedin.com/in/daniel-alves-833227199/)
+- [GitLab](https://gitlab.com/alvesdaniel)
+- [Instagram](https://www.instagram.com/coolalves/)
 
 Feel free to reach out to me and check out my projects!
