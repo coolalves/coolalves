@@ -4,7 +4,7 @@
 
 I am a Master's student in Communication and Web Technologies with a passion for technological innovation, sustainability, and human-computer interaction.
 
-My skills include web development, UI/UX design, and multimedia, with proficiency in languages such as JavaScript, React, React Native, and SQL. I also have recent experience working with CI/CD pipelines in GitLab and am always eager to learn and expand my knowledge in this field.
+My skills and interests include web development, UI/UX design, accessibility, and multimedia, with proficiency in technologies such as JavaScript, React, React Native, SQL and Firebase. I also have recent experience working with CI/CD pipelines in GitLab and am always eager to learn and expand my knowledge in this field.
 
 I am dedicated to creating meaningful and impactful work that pushes the boundaries of what is possible with technology.
 
