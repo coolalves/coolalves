@@ -15,5 +15,6 @@ You can also find me on:
 
 Feel free to reach out to me and check out my projects!
 
-[![Coolalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolalves)](https://github.com/coolalves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolalves&hide_progress=true)](https://github.com/coolalves/github-readme-stats)
+
 
