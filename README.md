@@ -15,6 +15,6 @@ You can also find me on:
 
 Feel free to reach out to me and check out my projects!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolalves&hide_progress=false&theme=dracula&show_icons=true)](https://github.com/coolalves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolalves&hide_progress=true&theme=dracula&show_icons=true)](https://github.com/coolalves/github-readme-stats)
 
 
