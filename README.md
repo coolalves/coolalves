@@ -14,3 +14,6 @@ You can also find me on:
 - [Instagram](https://www.instagram.com/coolalves/)
 
 Feel free to reach out to me and check out my projects!
+
+[![Coolalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolalves)](https://github.com/coolalves/github-readme-stats)
+
