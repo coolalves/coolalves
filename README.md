@@ -1,6 +1,6 @@
 # Hey there!
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,redux,firebase,figma,git,mysql,php,r,c)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,redux,firebase,figma,git,mysql,php,r,c,arduino)](https://skills.thijs.gg)
 
 I am a Master's student in Web Technologies with a passion for technological innovation, arts, and human-computer interaction.
 
