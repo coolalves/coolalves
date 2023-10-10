@@ -2,11 +2,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,redux,firebase,figma,git,mysql,php,r,c,arduino,express,mongo,heroku,vercel,kotlin)](https://skills.thijs.gg)
 
-I am a Master's student in Web Technologies with a passion for technological innovation, arts, and human-computer interaction.
-
-My skills and interests include web development, UI/UX design and accessibility, with proficiency in technologies such as JavaScript, React, React Native, SQL, Firebase and MongoDB. I also have recent experience working with CI/CD pipelines in GitLab and am always eager to learn and expand my knowledge in this field.
-
-I am dedicated to creating meaningful and impactful work that pushes the boundaries of what is possible with technology.
+Drawing from my studies in Multimedia, Web Technologies, and Communication at the University of Aveiro, I've always been excited by the crossroads of technology and design. Whether it's perfecting the balance between UI/UX for optimal user experiences or leveraging advanced web development techniques to create responsive and intuitive platforms, I thrive at that intersection. While I'm deeply immersed in a current project, I'm always open to networking and potential collaborations—feel free to reach out!
 
 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/daniel-alves-833227199/)
