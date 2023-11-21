@@ -7,6 +7,3 @@ Drawing from my studies in Multimedia, Web Technologies, and Communication at th
 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/daniel-alves-833227199/)
 - [GitLab](https://gitlab.com/alvesdaniel)
-
-Feel free to reach out to me and check out my projects!
-
